@@ -30,7 +30,25 @@ Audio Only (MP3)
 
 📦 Requirements
 Python 3.8+
+
 yt-dlp
+
 customtkinter
+
 pillow (for logo support)
+
 ffmpeg (for video/audio merging)
+
+License
+MIT License. See LICENSE for details.
+
+🙌 Acknowledgments
+yt-dlp
+
+customtkinter
+
+FFmpeg
+
+YouTube ❤️
+
+
